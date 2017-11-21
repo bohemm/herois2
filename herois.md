@@ -6,4 +6,4 @@
 * Aquaman
 * Mujer Maravilla
 * Jessica Jones
-* Songoku
+* Songoku es un super guerrer
